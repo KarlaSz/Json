@@ -1,0 +1,15 @@
+{
+    "name": "Karo",
+    "surname": "Szyszka",
+    "age": 30,
+    "city": "Wroc",
+    "isProgrammer": true,
+    "addresses": {
+        "street": "",
+        "school": "",
+        "work": ""
+    },
+    "hobbies": ["snowboard", "ski", "thai chi"],
+    "animals": null
+
+}
